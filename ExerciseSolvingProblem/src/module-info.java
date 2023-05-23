@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wooka
+ *
+ */
+module ExerciseSolvingProblem {
+}
